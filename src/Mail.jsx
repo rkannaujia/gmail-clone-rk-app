@@ -85,7 +85,7 @@ function Mail() {
                   <p className="mail_time">{selectedMail?.time}</p>
                   </div>
                   <div className="mail_message">
-                     <p>{selectedMail?.desription}</p>
+                     <p>{selectedMail?.description}</p>
                   </div>
             </div>  
         </div>
